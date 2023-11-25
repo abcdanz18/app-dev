@@ -9,3 +9,5 @@
 
 ## This is them:
 ![alt text](https://asianwiki.com/images/c/ca/Hospital_Playlist-P1.jpg)
+
+You can also view more information about the series here: [Hospital Playlist](https://en.wikipedia.org/wiki/Hospital_Playlist#:~:text=Hospital%20Playlist%20follows%20the%20lives,school.%20Lee%20Ik-jun%20is)
